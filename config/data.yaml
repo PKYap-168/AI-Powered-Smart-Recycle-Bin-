@@ -1,0 +1,14 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+nc: 3
+names:
+- Glass
+- metal
+- plastic
+roboflow:
+  workspace: airecycle-bin-imeche
+  project: -recycling-ilwql
+  version: dataset
+  license: CC BY 4.0
+  url: https://app.roboflow.com/airecycle-bin-imeche/-recycling-ilwql/dataset
