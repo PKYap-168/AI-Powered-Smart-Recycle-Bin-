@@ -1,6 +1,6 @@
 # AI-Powered Smart Recycle Bin
 
-🥇 **First Place -- SEA IMechE Design Competition 2026.**
+🥇 **First Place - SEA IMechE Design Competition 2026.**
 
 This project forms part of an integrated smart waste management solution combining:
 
@@ -160,6 +160,33 @@ This separation allowed the PC to handle computationally intensive computer visi
 This demonstration video shows the working AI-Powered physical prototype and 30-day route optimization simulation for the garbage truck. It can be accessed via the link attached below:
 
 **Video link on YouTube:** https://youtu.be/sIWVYZQ8Xho 
+
+---
+
+## Competition Achievement
+
+🥇 **First Place — SEA IMechE Design Competition 2026**
+
+Our team achieved First Place with the integrated smart waste management system, combining:
+
+- AI-based waste classification
+- Smart waste collection route optimization
+- EcoSphere recycling incentive mobile application
+- Functional automated waste-sorting prototype
+
+This achievement reflected the successful integration of machine learning, embedded systems, simulation, and mobile application development into a complete working solution.
+
+### Team Photo
+
+<p align="center">
+   <img width="1398" height="929" alt="image" src="https://github.com/user-attachments/assets/2be32fa2-6d1a-4a1d-86c4-5162c8a63b24" />
+</p>
+
+### Certificate
+
+<p align="center">
+   <img width="1315" height="931" alt="image" src="https://github.com/user-attachments/assets/f3689985-feb8-43f1-9454-c0d498ed5b05" />
+</p>
 
 ---
 
